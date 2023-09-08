@@ -1,0 +1,42 @@
+ {
+"Vaemail" : "p0005",
+"Vapass"  :  "a",
+
+"Apemail" : "11333",
+"Appass"  : "a",
+ 
+"LOCATION DATA" :   "01",
+"Lcd"           :   "78452153",
+"LcnMAN"        :   "Palghar 1022",
+"LType"         :   "Head Office",
+"LRegion"       :   "East",
+"LCountry"      :   "India",
+"LState"        :   "Maharashtra",
+"LCity"         :   "MUMBAI",
+"LStatus"       :   "Active",
+
+
+"SBU DATA"      :   "02",
+"SBC"           :   "7542245",
+"SBN"           :   "L&T NEW102 Company",
+
+
+"DEPARTMENT DATA" : "03",
+ "DEN"            : "Account015 AND USER1",
+ 
+ 
+ "ADD ROLES DATA" :  "04",
+  "Role"          :  "User",
+ "UserEmpId"      :  "04578232",
+ "UserEmpName"    :  "Ten",
+ "location"       :  "0028-Thane - Bhayander (  )",
+ "sec"            :  "Accounts and Finance",
+ "UserEmail"      :  "Ten55@etrents.com"
+,
+ "AuditArea"      : "Jewellary Audit",
+ "SBUNAME"        : "Jewellery"
+,
+ "SBUPath" : "C:/Users/admin/Desktop/NewSBU.xls",
+ "DepPath" :  "C:/Users/admin/Desktop/NewDepartment.xls",
+ "LocPath" : "C:/Users/admin/Desktop/NewLocation.xls"
+ } 
